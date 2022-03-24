@@ -30,5 +30,5 @@ The analysis of the election show that:
 ## Challenege Overview
 
 ## Challenge Summary
-https://github.com/JorMerr/Election_Analysis/blob/main/analysis/election_analysis.txt
+![Election Data Summary](https://github.com/JorMerr/Election_Analysis/blob/main/analysis/election_analysis.txt)
 

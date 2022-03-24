@@ -47,6 +47,7 @@ The analysis of the election shows that of the total **396,711** votes cast in t
 
 
 An Image of the Summary data has been included for ease of viewing.
+
 ![Election Data Summary](https://github.com/JorMerr/Election_Analysis/blob/main/analysis/election_analysis.PNG)
 
 ## Election Audit Summary

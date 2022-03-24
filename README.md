@@ -8,10 +8,25 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
+## Overview of Election Audit
+The purpose of this project is to provide a clear and accurate summary of the results of a recent local congressional election for the Colorado Board of Elections. The desired outcome of the analysis, as stated by the Colorado Board of Elections is as follows:
+  - Determine the total number of votes cast in the election.
+  - Determine the list of all candidates who received votes.
+    - For each candidate:
+      - List the total number of votes received.
+      - List the percentage of votes received.
+  - List the winner of the election by popular vote, including their vote percentage and number of votes received.
+Additionally, the Colorado Board of Elections requested the following data summary regarding the Counties involved in the election:
+  - The list of Counties in the election.
+  - Each County's total number of votes cast.
+  - Each County's percentage of total votes cast.
+  - List the County with the largest voter turnout.
 
 ## Resources
+The analysis includes script which was built using the following:
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code, 1.65.2
+It is recommended that the script be executed using the same Software as indicated, otherwise the analyst may encounter unexpected errors.
 
 ## Election Audit Results
 

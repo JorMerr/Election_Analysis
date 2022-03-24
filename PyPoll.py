@@ -8,11 +8,12 @@ file_to_load = os.path.join("Resources", "election_results.csv")
 
 # Open the election results and read the file.
 with open(file_to_load) as election_data:
+    file_reader = csv.reader(election_data)
 
-    # Print the file object
-    print(election_data)
+    # Read and print the header row.
+    headers = next(file_reader)
+    print(headers)
 
-    # To do: perform analysis.
 
 # 1. The total numer of votes cast
 # 2. A complete list of candidates who received votes
